@@ -2,7 +2,7 @@
   <div id="footer" class="container">
     <div class="row">
       <div class="col-md-12 text-center">
-        ©Copyright <?=date('Y').' '.$app?>
+        ©Copyright <?=date('Y').' '.$app?> Todos os direitos reservados
       </div>
     </div>
   </div>
@@ -13,6 +13,7 @@
 <script src="js/jquery.3.4.1.js"></script>
 <script src="js/popper.min.js"></script>
 <script src="js/bootstrap.min.js"></script>
+<script src="js/wow.js"></script>
 <!-- NAV FLOW -->
 <script>
 	function openNav() {
@@ -79,4 +80,23 @@ function scrollFunction() {
 //   document.body.scrollTop = 0;
 //   document.documentElement.scrollTop = 0;
 // }
+</script>
+<!-- WOW AND ANIMATED TO SCROLL EFECTS  -->
+<script>
+  var wow = new WOW(
+    {
+      boxClass:     'wow',      // animated element css class (default is wow)
+      animateClass: 'animated', // animation css class (default is animated)
+      offset:       300,          // distance to the element when triggering the animation (default is 0)
+      mobile:       true,       // trigger animations on mobile devices (default is true)
+      live:         true,       // act on asynchronously loaded content (default is true)
+      callback:     function(box) {
+        // the callback is fired every time an animation is started
+        // the argument that is passed in is the DOM node being animated
+      },
+      scrollContainer: null,    // optional scroll container selector, otherwise use window,
+      resetAnimation: true,     // reset animation on end (default is true)
+    }
+  );
+  wow.init();
 </script>

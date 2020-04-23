@@ -19,6 +19,12 @@
             <!-- <p>Filtros<br> Sempre<br> Foi <img src="{{URL::asset('images/logo_frem_branco_icn@2x.png')}}" alt=""></p> -->
           </div>
         </div>
+        <div class="carousel-item">
+          <img src="imgs/slide_3.jpg" class="d-block w-100" alt="...">
+          <div class="carousel-caption d-none d-md-block text-left">
+            <!-- <p>Filtros<br> Sempre<br> Foi <img src="{{URL::asset('images/logo_frem_branco_icn@2x.png')}}" alt=""></p> -->
+          </div>
+        </div>
       </div>
       <a class="carousel-control-prev" href="#main_carousel" role="button" data-slide="prev">
         <i class="las la-angle-left"></i>
@@ -31,14 +37,14 @@
     </div>
   </section>
 
-  <section id="first" class="pt100">
+  <section id="first" class="pt120">
     <div class="container">
       <div class="row">
         <div class="col-md-12 text-center">
-          <h1 class="main_titles">Por que fazer um curso de design educacional?</h1>
-          <hr class="title_divisor">
+          <h1 class="main_titles wow bounceInUp animated">Por que fazer um curso de design educacional?</h1>
+          <hr class="title_divisor wow bounceInUp animated">
         </div>
-        <div class="col-md-6 mt-5 mb-5 d_flex j_center a_center f_column">
+        <div class="col-md-6 mt-5 mb-5 d_flex j_center a_center f_column wow fadeInLeft animated slow">
           <p>Designer Educacional é o nome dado ao profissional que tem a capacidade de “dar vida”a
           um conteúdo a ser disponibilizado por meio da educação a distância.</p>
           <p>Este curso irá prepará-lo para:</p>
@@ -51,7 +57,7 @@
           </ul>
         </div>
         <div class="col-md-6 mt-5 mb-5 d_flex j_center a_center">
-          <img class="shadow_bottom" src="imgs/mini_banner_1.jpg" alt="">
+          <img class="wow fadeInRight animated slow" src="imgs/mini_banner_1.png" alt="">
         </div>
       </div>
     </div>
@@ -61,10 +67,12 @@
     <div class="container">
       <div class="row">
         <div class="col-md-6 text-center d_flex j_center a_center f_column">
-          <h2 class="main_titles">Sobre o Curso</h2>
-          <hr class="title_divisor">
+          <div class="">
+            <h2 class="main_titles wow fadeInLeft">Sobre o Curso</h2>
+            <hr class="title_divisor">
+          </div>
         </div>
-        <div class="col-md-6 text-center">
+        <div class="col-md-6 text-center wow fadeInRight">
           <p>O curso de Design Educacional foi pensando para ajudar profesores(as) a transformar estratégias de ensino, planejadas para
           acontecer presencialmente, por estratégias de ensino para ser ofertadas a distância.</p>
           <p>
@@ -84,9 +92,9 @@
           <hr class="title_divisor">
         </div>
         <div class="col-md-6 mt-5 mb-5 d_flex j_center a_center">
-          <img class="shadow_bottom" src="imgs/mini_banner_1.jpg" alt="">
+          <img class="wow bounceInDown animated slow" src="imgs/mini_banner_2.png" alt="" width="350px">
         </div>
-        <div class="col-md-6 mt-5 mb-5 d_flex a_center j_center f_column">
+        <div class="col-md-6 mt-5 mb-5 d_flex a_center j_center f_column wow bounceInRight animated">
           <p>Repensar práticas pedagógicas vem sendo visto como algo cada vez mais urgente. Aproveitar as tecnologias digitais
           disponíveis para repensar tempos e espaços escolares e implementar metodologías ativas fazem parte deste contexto. Já
           não se tem mais dúvidas que é necessária esta mudança mas, como fazer?</p>
@@ -102,26 +110,26 @@
 
   <section class="paralax"></section>
 
-  <section id="specifications" class="pt80 pb50">
+  <section id="specifications" class="pt100 pb80">
     <div class="container">
       <div class="row">
-        <div class="col-md-6 col-lg-3 mb40 text-center">
+        <div class="col-md-6 col-lg-3 mb40 text-center wow bounceInLeft animated slow">
           <h2 class="mini_titles">PÚBLICO-ALVO</h2>
           <i class="las la-users"></i>
           <p>Qualquer professor(a), de Educação Básica ou Ensino Superior, que tenha interesse em rever sua
           prática de ensino para oferta de atividades no formato de Educação a distância</p>
         </div>
-        <div class="col-md-6 col-lg-3 mb40 text-center">
+        <div class="col-md-6 col-lg-3 mb40 text-center wow bounceInLeft animated">
           <h2 class="mini_titles">OBJETIVOS</h2>
           <i class="las la-bullseye"></i>
           <p>Criar atividades digitais apoiadas pelas metodologias ativas, fazer uso de recursos educacionais abertos para aprimorar suas atividades, trabalhar com os alunos por meio de comunidades virtuais e promover avaliação criativa.</p>
         </div>
-        <div class="col-md-6 col-lg-3 mb40 text-center">
+        <div class="col-md-6 col-lg-3 mb40 text-center wow bounceInRight animated">
           <h2 class="mini_titles">CARGA HORÁRIA</h2>
           <i class="las la-clock"></i>
           <p>O curso está organizado em 4 módulos com uma carga horária total de 16 horas</p>
         </div>
-        <div class="col-md-6 col-lg-3 mb40 text-center">
+        <div class="col-md-6 col-lg-3 mb40 text-center wow bounceInRight animated slow">
           <h2 class="mini_titles">CERTIFICAÇÃO</h2>
           <i class="las la-certificate"></i>
           <p>O curso foi planejado para que o docente seja aprovado ao passar por todo o conteúdo, entregar
@@ -134,8 +142,8 @@
 
   <section id="contact">
     <div class="container">
-      <div class="row">
-        <div class="offset-md-3 col-md-6 text-center">
+      <div class="row wow bounceInUp animated slow">
+        <div class="offset-lg-3 col-md-12 col-lg-6 text-center">
           <h2 class="main_titles">Possui alguma dúvida ou quer fazer o curso Design Educacional? Entre em contato:</h2>
         </div>
         <div class="col-md-12">
@@ -153,10 +161,10 @@
                   </div>
                   <div class="col-md-12">
                     <label for="msg">Mensagem:</label>
-                    <textarea name="msg" id="" cols="30" rows="10"></textarea>
+                    <textarea name="msg" id="" cols="30" rows="5"></textarea>
                   </div>
-                  <div class="col-md-12 mt20 text-center">
-                    <button class="btn btn-dark">ENVIAR</button>
+                  <div class="col-md-12 mt20 mb20 text-center">
+                    <button class="btn btn-light">ENVIAR</button>
                   </div>
                 </div>
               </form>

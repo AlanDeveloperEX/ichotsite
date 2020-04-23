@@ -67,7 +67,7 @@ main #about {
   color: #fff !important;
 }
 main .paralax {
-  background-image: url(../imgs/slide_1.jpg);
+  background-image: url(../imgs/paralax.jpg);
   height: 450px;
   background-attachment: fixed;
   background-position: center;
@@ -90,18 +90,19 @@ main #specifications i {
   margin: 1rem 0;
 }
 main #contact {
-  padding: 100px;
+  padding: 0 100px 100px 100px;
   background: linear-gradient(to left, #000000db , #02020280);
-  background-image: url(../imgs/contact.jpg);
+  background-image: url(../imgs/contact.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   color: #fff;
+  /* margin-bottom: 50px; */
 }
 main #contact .container {
-  background-color: #f58220c7;
+  background: linear-gradient(to left, #000000db , #02020280);
   border-radius: 20px;
-  padding: 5%;
+  padding: 0 5% 3% 5%;
 }
 main #contact .main_titles {
   font-size: 1.3rem;
@@ -120,6 +121,7 @@ main #contact button {
   padding: 15px 50px;
   border-radius: 20px;
   transition: all 0.3s ease-out 0s !important;
+  /* border: 1px solid #fff; */
 }
 main #contact button:hover {
   transform: scale(0.9);
@@ -127,11 +129,12 @@ main #contact button:hover {
 }
 footer {
   /* background-image: linear-gradient(to right, #191970, #836FFF, #00BFFF); */
-  background-color: #000000;
+  background-color: #fff;
   /* position: absolute; */
   /* bottom: 0; */
   padding: 1.3rem 0;
-  color: #fff;
+  color: #000;
+  border-top: 2px solid #00000042;
 }
 #to_top {
   display: none;
@@ -142,7 +145,7 @@ footer {
   font-size: 18px;
   border: none;
   outline: none;
-  background-color: #e63e15;
+  background-color: #ec7305;
   color: white;
   cursor: pointer;
   padding: 15px 20px;
@@ -152,6 +155,13 @@ footer {
 }
 #to_top:hover {
   background-color: #ff0000b8;
+}
+@media (max-width: 1300px) {
+  main #main_carousel {
+    max-height: 45vh;
+    min-height: 45vh;
+    overflow: hidden;
+  }
 }
 @media(max-width: 768px) {
   #access {
@@ -164,12 +174,17 @@ footer {
     border-top-right-radius: 0;
   }
   main #main_carousel {
-    max-height: 350px;
-    min-height: 350px;
+    max-height: 270px;
+    min-height: 270px;
     overflow: hidden;
   }
   main #main_carousel i {
     font-size: 35px;
+  }
+  main .paralax {
+    background-image: url(../imgs/paralax.jpg);
+    background-position-x: -630px;
+    height: 350px;
   }
 }
 /* RESOLUTION START HAMBURGER NAV  */
@@ -193,8 +208,8 @@ footer {
     font-size: .7rem;
   }
   main #main_carousel {
-    max-height: 200px;
-    min-height: 200px;
+    max-height: 135px;
+    min-height: 135px;
     overflow: hidden;
   }
   main #main_carousel i {

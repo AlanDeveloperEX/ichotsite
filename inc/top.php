@@ -3,7 +3,7 @@
     <div class="row">
       <div class="col-md-12">
         <nav class="navbar navbar-expand-sm navbar-dark">
-          <a class="navbar-brand" href="#">
+          <a class="navbar-brand" href="index.php">
             <img class="logo" src="imgs/logo.png" alt="logo">
           </a>
           <button class="navbar-toggler" type="button" data-toggle="collapse" onclick="openNav()">
@@ -13,22 +13,22 @@
           <div class="collapse navbar-collapse j_end a_center" id="collapsibleNavbar">
             <ul class="navbar-nav a_center">
               <li class="nav-item">
-                <a class="nav-link <?=$page == 'about'?'active':'' ?>" href="#about">Sobre</a>
+                <a class="nav-link <?=$page == 'about'?'active':'' ?>" href="index.php#about">Sobre</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link <?=$page == 'signin'?'active':'' ?>" href="#">Inscrição</a>
+                <a class="nav-link <?=$page == 'sign'?'active':'' ?>" href="inscricao.php">Inscrição</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link <?=$page == 'doubts'?'active':'' ?>" href="#">Dúvidas</a>
+                <a class="nav-link <?=$page == 'doubts'?'active':'' ?>" href="duvidas.php">Dúvidas</a>
               </li>    
               <li class="nav-item">
                 <a class="nav-link <?=$page == 'ic'?'active':'' ?>" href="http://institutocrescer.org.br/" target="_blank">Instituto Crescer</a>
               </li>    
               <li class="nav-item">
-                <a class="nav-link <?=$page == 'contact'?'active':'' ?>" href="#contact">Contato</a>
+                <a class="nav-link <?=$page == 'contact'?'active':'' ?>" href="index.php#contact">Contato</a>
               </li>    
             </ul>
-            <a id="access" class="btn btn-dark" href="" target="_blank">ACESSE AO CURSO</a>
+            <a id="access" class="btn btn-dark" href="http://cursos.institutocrescer.org.br/login/index.php" target="_blank">ACESSE AO CURSO</a>
           </div>  
         </nav>
       </div>
