@@ -39,8 +39,11 @@
     </div> -->
       <div class="container">
         <div class="row">
-          <div class="col-md-12 text-center d_flex j_center a_end">
+          <div class="col-md-12 text-center d_flex j_center a_end mb20">
             <h1 class="pulse anima_hover">Curso de Design Educacional</h1>
+          </div>
+          <div class="col-md-12 text-center">
+            <a class="btn btn-light custom pulse anima_hover" href="#">INSCREVA-SE AGORA!</a>
           </div>
         </div>
       </div>
