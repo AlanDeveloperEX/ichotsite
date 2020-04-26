@@ -1,29 +1,31 @@
 <main>
   <!-- MAIN CAROUSEL  -->
-  <section id="top">
-    <div id="main_carousel" class="carousel slide" data-ride="carousel">
+  <section id="top" class="d_flex j_center a_end">
+    <div class="s_filter d_flex j_center a_end pb40">
+    <!-- <div id="main_carousel" class="carousel slide" data-ride="carousel">
       <ol class="carousel-indicators">
         <li data-target="#main_carousel" data-slide-to="0" class="active"></li>
         <li data-target="#main_carousel" data-slide-to="1" class=""></li>
+        <li data-target="#main_carousel" data-slide-to="2" class=""></li>
       </ol>
       <div class="carousel-inner">
         <div class="carousel-item active">
           <img src="imgs/slide_1.jpg" class="d-block w-100" alt="...">
-          <div class="carousel-caption d-none d-md-block text-left">
+          <div class="carousel-caption d-none d-md-block text-left"> -->
             <!-- <p>Filtros<br> Sempre<br> Foi <img src="{{URL::asset('images/logo_frem_branco_icn@2x.png')}}" alt=""></p> -->
-          </div>
+          <!-- </div>
         </div>
         <div class="carousel-item">
           <img src="imgs/slide_2.jpg" class="d-block w-100" alt="...">
-          <div class="carousel-caption d-none d-md-block text-left">
+          <div class="carousel-caption d-none d-md-block text-left"> -->
             <!-- <p>Filtros<br> Sempre<br> Foi <img src="{{URL::asset('images/logo_frem_branco_icn@2x.png')}}" alt=""></p> -->
-          </div>
+          <!-- </div>
         </div>
         <div class="carousel-item">
           <img src="imgs/slide_3.jpg" class="d-block w-100" alt="...">
-          <div class="carousel-caption d-none d-md-block text-left">
+          <div class="carousel-caption d-none d-md-block text-left"> -->
             <!-- <p>Filtros<br> Sempre<br> Foi <img src="{{URL::asset('images/logo_frem_branco_icn@2x.png')}}" alt=""></p> -->
-          </div>
+          <!-- </div>
         </div>
       </div>
       <a class="carousel-control-prev" href="#main_carousel" role="button" data-slide="prev">
@@ -34,6 +36,14 @@
         <i class="las la-angle-right"></i>
         <span class="sr-only">Next</span>
       </a>
+    </div> -->
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12 text-center d_flex j_center a_end">
+            <h1 class="pulse anima_hover">Curso de Design Educacional</h1>
+          </div>
+        </div>
+      </div>
     </div>
   </section>
 
@@ -41,7 +51,7 @@
     <div class="container">
       <div class="row">
         <div class="col-md-12 text-center">
-          <h1 class="main_titles wow bounceInUp animated">Por que fazer um curso de design educacional?</h1>
+          <h1 class="main_titles wow bounceInUp animated">Por que fazer um curso de Design Educacional?</h1>
           <hr class="title_divisor wow bounceInUp animated">
         </div>
         <div class="col-md-6 mt-5 mb-5 d_flex j_center a_center f_column wow fadeInLeft animated slow">
@@ -89,7 +99,7 @@
       <div class="row">
         <div class="col-md-12 text-center">
           <h2 class="main_titles">Qual a importância de um curso desses?</h2>
-          <hr class="title_divisor">
+          <hr class="title_divisor wow fadeInLeft animated">
         </div>
         <div class="col-md-6 mt-5 mb-5 d_flex j_center a_center">
           <img class="wow bounceInDown animated slow" src="imgs/mini_banner_2.png" alt="" width="350px">

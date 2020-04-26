@@ -35,17 +35,17 @@
     </div>
   </div>
 </header>
-<a class="btn btn-dark nav_side" href="" target="_blank">ACESSE AO CURSO</a>
+<a class="btn btn-dark nav_side" href="http://cursos.institutocrescer.org.br/login/index.php" target="_blank">ACESSE AO CURSO</a>
 <!-- OVERLAY NAV -->
 <div id="myNav" class="overlay">
   <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
   <div class="overlay-content">
     <ul class="list_overlay">
-      <li><a href="" class=" " onclick="closeNav()">Sobre</a></li>
-      <li><a href="" class=" " onclick="closeNav()">Inscrição</a></li>
-      <li><a href="" class=" " onclick="closeNav()">Dúvidas</a></li>
-      <li><a href="" class=" " onclick="closeNav()">Instituto Crescer</a></li>
-      <li><a href="" class=" " onclick="closeNav()">Contato</a></li>
+      <li><a href="index.php#about" class="nav-link" onclick="closeNav()">Sobre</a></li>
+      <li><a href="inscricao.php" class="nav-link" onclick="closeNav()">Inscrição</a></li>
+      <li><a href="duvidas.php" class="nav-link" onclick="closeNav()">Dúvidas</a></li>
+      <li><a href="http://institutocrescer.org.br/" class="nav-link" onclick="closeNav()">Instituto Crescer</a></li>
+      <li><a href="index.php#contact" class="nav-link" onclick="closeNav()">Contato</a></li>
     </ul>
   </div>
 </div><!-- OVERLAY NAV END-->

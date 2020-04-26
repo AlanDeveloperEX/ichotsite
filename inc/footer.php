@@ -1,3 +1,51 @@
+<div id="pre_footer">
+  <div class="container">
+    <div class="row pt60 pb60">
+      <div class="col-md-12">
+        <div class="row">
+          <div class="col-md-4 text-center">
+            <img src="imgs/logo_rodape.png" alt="">
+            <div class="row pt20 pb20">
+              <div class="col-md-3">
+                <a href="https://www.facebook.com/paginainstitutocrescer" target="_blank">
+                  <i class="lab la-facebook"></i>
+                </a>
+              </div>
+              <div class="col-md-3">
+                <a href="https://www.youtube.com/user/InstCrescer" target="_blank">
+                  <i class="lab la-youtube"></i>
+                </a>
+              </div>
+              <div class="col-md-3">
+                <a href="https://www.linkedin.com/company/instituto-crescer" target="_blank">
+                  <i class="lab la-linkedin"></i>
+                </a>
+              </div>
+              <div class="col-md-3">
+                <a href="https://twitter.com/instcrescer" target="_blank">
+                  <i class="lab la-twitter"></i>
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 text-center">
+            <h6>Sede</h6>
+            <hr>
+            <p>Rua Cubatão, 929 cj 101<br>
+            CEP 04013-043 - Vila Mariana<br>
+            São Paulo - SP - Brasil
+            </p>
+          </div>
+          <div class="col-md-4 text-center">
+            <h6>Contato</h6>
+            <hr>
+            <p>+55 11 4550-3910</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
 <footer>
   <div id="footer" class="container">
     <div class="row">

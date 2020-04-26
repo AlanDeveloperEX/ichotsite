@@ -7,6 +7,7 @@
 }
 html, body {
   overflow-x: hidden;
+  font-size: 1.1rem;
 }
 html {
   background-color: var(--dark);
@@ -44,6 +45,7 @@ html {
 .mb80 {margin-bottom: 80px;}
 .mb90 {margin-bottom: 90px;}
 .mb100 {margin-bottom: 100px;}
+.mb200 {margin-bottom: 200px;}
 /* PADDING  */
 .p10 {padding: 10px;}
 .p20 {padding: 20px;}
@@ -96,10 +98,18 @@ html {
 .f_wrap {flex-wrap: wrap !important;}
 .i_block {display: inline-flex;}
 .shadow_bottom {box-shadow: 0px 4px 15px #9e95956e;}
+.s_filter { background-image: linear-gradient(to top, rgba(-125, 0, 0, 2.5), rgba(-225, 0, 0, 0.3), rgba(0, 0, 255, -0.9), rgba(0, 0, 0, 0)); height: calc(100vh - 73px); width: 100%;}
+.anima_hover {
+  -webkit-animation-duration: 1s !important;
+  animation-duration: 1s !important;
+  -webkit-animation-name: pulse;
+  animation-name: pulse;
+  animation-iteration-count: infinite;
+}
 .title_divisor {
   border-top: 5px solid rgb(127, 181, 226);
   border-radius: 10px;
-  width: 80%;
+  max-width: 200px;
 }
 .title_divisor.second {
   border-top: 5px solid rgb(127, 181, 226);

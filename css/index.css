@@ -31,6 +31,14 @@ header {
   font-size: .7rem;
 }
 .nav_side {display: none;}
+main #top {
+  background-image: url('../imgs/ead.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: calc(100vh - 73px);
+  color: #fff;
+}
 main #main_carousel {
   max-height: 60vh;
   min-height: 60vh;
@@ -68,7 +76,7 @@ main #about {
 }
 main .paralax {
   background-image: url(../imgs/paralax.jpg);
-  height: 450px;
+  height: 400px;
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -91,8 +99,8 @@ main #specifications i {
 }
 main #contact {
   padding: 0 100px 100px 100px;
-  background: linear-gradient(to left, #000000db , #02020280);
-  background-image: url(../imgs/contact.png);
+  /* background: linear-gradient(to left, #000000db , #02020280); */
+  background-image: url(../imgs/contact.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -126,6 +134,49 @@ main #contact button {
 main #contact button:hover {
   transform: scale(0.9);
   transition: all 0.3s ease-out 0s !important;
+}
+.doubts p {
+  font-size: 16px;
+}
+.doubts h6 {
+  margin-top: 10px;
+  text-align: center;
+}
+.doubts ul li {
+  font-size: 16px;
+}
+a.custom {
+  background-color: #f07d00 !important;
+  border-color: #f07d00 !important;
+  color: #fff;
+  padding: 15px 50px;
+  border-radius: 20px;
+  transition: all 0.3s ease-out 0s !important;
+}
+a.custom:hover {
+  transform: scale(0.9);
+  color: #fff;
+  transition: all 0.3s ease-out 0s !important;
+}
+#pre_footer {
+  background: linear-gradient(to left, #203864 , #203864);
+  color: #fff;
+}
+#pre_footer a {
+  color: #fff;
+}
+#pre_footer a:hover {
+  opacity: 0.8;
+}
+#pre_footer i {
+  font-size: 35px;
+}
+#pre_footer hr {
+  border-top: 2px solid rgb(239, 76, 36);
+  width: 20%;
+}
+#pre_footer p {
+  font-size: 15px;
 }
 footer {
   /* background-image: linear-gradient(to right, #191970, #836FFF, #00BFFF); */
@@ -184,7 +235,7 @@ footer {
   main .paralax {
     background-image: url(../imgs/paralax.jpg);
     background-position-x: -630px;
-    height: 350px;
+    height: 400px;
   }
 }
 /* RESOLUTION START HAMBURGER NAV  */
@@ -223,5 +274,12 @@ footer {
   }
   main #contact .container {
     border-radius: 0;
+  }
+  footer {
+    font-size: 15px;
+  }
+  #pre_footer .col-md-3 {
+    width: 25%;
+    margin: 20px 0;
   }
 }
