@@ -40,10 +40,13 @@
       <div class="container">
         <div class="row">
           <div class="col-md-12 text-center d_flex j_center a_end mb20">
-            <h1 class="pulse anima_hover">Curso de Design Educacional</h1>
+            <h1 class="">Curso de Design Educacional</h1>
           </div>
           <div class="col-md-12 text-center">
-            <a class="btn btn-light custom pulse anima_hover" href="#">INSCREVA-SE AGORA!</a>
+            <p>Se prepare para transformar suas aulas presenciais em estratégias efetivas de aprendizagem remota.</p>
+          </div>
+          <div class="col-md-12 text-center">
+            <a class="btn btn-light custom pulse anima_hover" href="https://www.eskolare.com/l/instituto-crescer" target="_blank">INSCREVA-SE AGORA!</a>
           </div>
         </div>
       </div>
@@ -58,14 +61,13 @@
           <hr class="title_divisor wow bounceInUp animated">
         </div>
         <div class="col-md-6 mt-5 mb-5 d_flex j_center a_center f_column wow fadeInLeft animated slow">
-          <p>Designer Educacional é o nome dado ao profissional que tem a capacidade de “dar vida”a
-          um conteúdo a ser disponibilizado por meio da educação a distância.</p>
+          <p>Designer Educacional é o nome dado ao profissional que tem a capacidade de “dar vida” a um conteúdo disponibilizado por meio da educação a distância.</p>
           <p>Este curso irá prepará-lo para:</p>
           <ul>
-            <li>Criar atividades digitais apoiadas pelas metodologias ativas;</li>
-            <li>Fazer uso de recursos educacionais abertos para aprimorar suas atividades;</li>
-            <li>Trabalhar com os alunos por meio de comunidades virtuais;</li>
-            <li>Promover avaliação criativa
+            <li>Criar comunidades virtuais de aprendizagem no ambiente Moodle;</li>
+            <li>Produzir vídeo-aulas e outros recursos interativos para compartilhar conceitos, ideias e reflexões importantes aos diferentes contextos educacionais;</li>
+            <li>Promover estratégias avaliativas criativas e que são analisadas por meio de rubricas que tenham como foco o desenvolvimento de competências para o século XXI;</li>
+            <li>Estruturar atividades didáticas online, criativas e inovadoras, apoiadas pelas metodologias ativas.
             Vivencie esta experiência e seja um(a) professor(a) inovador(a)!</li>
           </ul>
         </div>
@@ -86,12 +88,9 @@
           </div>
         </div>
         <div class="col-md-6 text-center wow fadeInRight">
-          <p>O curso de Design Educacional foi pensando para ajudar profesores(as) a transformar estratégias de ensino, planejadas para
-          acontecer presencialmente, por estratégias de ensino para ser ofertadas a distância.</p>
+          <p>O curso de Design Educacional foi pensado para ajudar professores(as) a transformar estratégias de ensino, planejadas para acontecer presencialmente, em estratégias de ensino para serem ofertadas por meio da educação a distância.</p>
           <p>
-          A ideia é não somente fazer a transposição do conteúdo para um novo formato, mas aproveitar este momento para rever
-          estratégias de ensino seculares em busca de uma nova educação, que faça mais sentido para os alunos e os engajem em
-          momentos de aprendizagem significativa.</p>
+          A ideia não é somente fazer a transposição do conteúdo para um novo formato, mas aproveitar este momento para rever estratégias de ensino seculares, em busca de uma Nova Educação, que faça mais sentido para os(as) alunos(as) e os engajem em momentos de aprendizagem significativa.</p>
         </div>
       </div>
     </div>
@@ -108,14 +107,10 @@
           <img class="wow bounceInDown animated slow" src="imgs/mini_banner_2.png" alt="" width="350px">
         </div>
         <div class="col-md-6 mt-5 mb-5 d_flex a_center j_center f_column wow bounceInRight animated">
-          <p>Repensar práticas pedagógicas vem sendo visto como algo cada vez mais urgente. Aproveitar as tecnologias digitais
-          disponíveis para repensar tempos e espaços escolares e implementar metodologías ativas fazem parte deste contexto. Já
-          não se tem mais dúvidas que é necessária esta mudança mas, como fazer?</p>
-          <p>Como realmente desenhar estratégias de ensino
-          que se revertam em atividades prazerosas para os alunos(as) e os(as) preparem com as competências cognitivas básicas,
-          socioemocionais e digitais necessárias no Século XXI. Esta é a proposta deste curso, que irá trazer um primeiro olhar, para
-          uma nova realidade, que é trabalhar com educação a distância de forma a propiciar aos estudantes oportunidades de
-          comunicação, expressão, acesso à informação e metacognição. Participe!</p>
+          <p>Repensar práticas pedagógicas vem sendo visto como algo cada vez mais urgente. Aproveitar as tecnologias digitais disponíveis para reinventar tempos e espaços escolares e implementar metodologias ativas fazem parte deste contexto. Já não há mais dúvidas que é necessária esta mudança. </p>
+          <p>Mas como fazer? Como realmente desenhar estratégias de ensino que se revertam em atividades prazerosas para os(as) alunos(as) e os(as) preparem com as competências cognitivas básicas, socioemocionais e digitais necessárias no Século XXI?</p>
+          <p>
+          Esta é a proposta deste curso, que irá trazer um primeiro olhar para uma nova realidade: trabalhar com educação remota de forma a propiciar aos estudantes oportunidades de comunicação, expressão, acesso à informação e metacognição. Participe!</p>
         </div>
       </div>
     </div>
@@ -129,25 +124,22 @@
         <div class="col-md-6 col-lg-3 mb40 text-center wow bounceInLeft animated slow">
           <h2 class="mini_titles">PÚBLICO-ALVO</h2>
           <i class="las la-users"></i>
-          <p>Qualquer professor(a), de Educação Básica ou Ensino Superior, que tenha interesse em rever sua
-          prática de ensino para oferta de atividades no formato de Educação a distância</p>
+          <p>Professores(as) de Educação Básica ou Ensino Superior que tenham interesse em rever suas práticas de ensino para oferecer atividades no formato de educação remota.</p>
         </div>
         <div class="col-md-6 col-lg-3 mb40 text-center wow bounceInLeft animated">
           <h2 class="mini_titles">OBJETIVOS</h2>
           <i class="las la-bullseye"></i>
-          <p>Criar atividades digitais apoiadas pelas metodologias ativas, fazer uso de recursos educacionais abertos para aprimorar suas atividades, trabalhar com os alunos por meio de comunidades virtuais e promover avaliação criativa.</p>
+          <p>Desenvolver a competência de design educacional em docentes, levando-os(as) a repensar suas práticas pedagógicas, seja no formato presencial ou a distância.</p>
         </div>
         <div class="col-md-6 col-lg-3 mb40 text-center wow bounceInRight animated">
           <h2 class="mini_titles">CARGA HORÁRIA</h2>
           <i class="las la-clock"></i>
-          <p>O curso está organizado em 4 módulos com uma carga horária total de 16 horas</p>
+          <p>O curso está organizado em 4 módulos com uma carga horária total de 40 horas.</p>
         </div>
         <div class="col-md-6 col-lg-3 mb40 text-center wow bounceInRight animated slow">
           <h2 class="mini_titles">CERTIFICAÇÃO</h2>
           <i class="las la-certificate"></i>
-          <p>O curso foi planejado para que o docente seja aprovado ao passar por todo o conteúdo, entregar
-          pelo menos 70% das micropráticas propostas no greal de todos os módulos e fazer a autorreflexão
-          ao final.</p>
+          <p>Para ser certificado é necessário passar por todo o conteúdo, entregar pelo menos 70% das micropráticas propostas no geral de todos os módulos e fazer a autorreflexão final.</p>
         </div>
       </div>
     </div>

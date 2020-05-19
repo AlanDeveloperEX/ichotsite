@@ -29,8 +29,7 @@
           <h6> - Como são organizadas as turmas e com que frêquencia é feita a oferta do curso?</h6>
           <p>O curso pode ser organizado para uma instituição de ensino e a oferta acontecer para turmas fechadas de até 40 participantes ou faremos ofertas regulares para docentes interessados em participar individualmente ou em pequenos grupos, formando turmas de até 40 participantes. Acompanhe pelo site as ofertas regulares ou solicite uma proposta para uma turma fechada da sua instituição.</p>
           <h6> - O que preciso fazer para ser certificado?</h6>
-          <p>O curso foi planejado para que o docente seja aprovado ao passar por todo o conteúdo, entregar pelo menos 70% das micropráticas propostas no greal de todos os módulos e fazer a
-          autorreflexão ao final.</p>
+          <p>O curso foi planejado para que o docente seja aprovado ao passar por todo o conteúdo, entregando pelo menos 70% das micropráticas propostas no geral de todos os módulos e fazendo a autorreflexão ao final.</p>
         </div>
         <div class="col-md-6 mt-5 mb-5 d_flex j_center a_center">
           <img class="" src="imgs/inscricao.png" alt="">
