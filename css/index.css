@@ -3,7 +3,7 @@ header {
   background-color: var(--back_menu);
 }
 #nav nav .logo {
-  width: 100px;
+  width: 140px;
 }
 #nav nav .nav-link {
   color: var(--text_menu);
@@ -16,7 +16,7 @@ header {
 }
 #nav nav .nav-link:hover, #nav nav .nav-link:focus, #nav nav .nav-link:active {
   color: var(--white);
-  background-color: var(--dark);
+  background-color: var(--second_color);
   border-radius: 15px;
   transition: all 0.3s ease-out 0s !important;
 }
@@ -90,11 +90,12 @@ main .mini_titles {
     font-size: 1rem;
     letter-spacing: 3px;
     text-transform: initial;
-    color: var(--main_color);
+    color: var(--second_color);
+    font-weight: 700;
 }
 main #specifications i {
   font-size: 4rem;
-  color: var(--second_color);
+  color: var(--main_color);
   margin: 1rem 0;
 }
 main #contact {
@@ -108,13 +109,13 @@ main #contact {
   /* margin-bottom: 50px; */
 }
 main #contact .container {
-  background: linear-gradient(to left, #000000db , #02020280);
-  border-radius: 20px;
-  padding: 0 5% 3% 5%;
+  background: linear-gradient(to left, #03529f , #0d569e6b);
+  border-radius: 5px;
+  padding: 0 5% 2% 5%;
 }
 main #contact .main_titles {
-  font-size: 1.3rem;
-  padding: 10% 5%;
+  font-size: 1.1rem;
+  padding: 5% 10%;
 }
 main #contact input, main #contact textarea, main #contact label {
   width: 100%;
@@ -126,7 +127,7 @@ main #contact label {
   margin: 5px 0;
 }
 main #contact button {
-  padding: 15px 50px;
+  padding: 7px 45px;
   border-radius: 20px;
   transition: all 0.3s ease-out 0s !important;
   /* border: 1px solid #fff; */
@@ -196,7 +197,7 @@ footer {
   font-size: 18px;
   border: none;
   outline: none;
-  background-color: #ec7305;
+  background-color: var(--main_color);
   color: white;
   cursor: pointer;
   padding: 15px 20px;
@@ -205,7 +206,7 @@ footer {
   transition: all 0.3s ease-out 0s !important;
 }
 #to_top:hover {
-  background-color: #ff0000b8;
+  opacity: 0.75;
 }
 @media (max-width: 1300px) {
   main #main_carousel {
@@ -241,7 +242,7 @@ footer {
 /* RESOLUTION START HAMBURGER NAV  */
 @media(max-width: 575px) { 
   .navbar-dark .navbar-toggler {
-    background-color: #000;
+    background-color: var(--second_color);
     color: #fff;
     opacity: 1;
     padding: 8px;
@@ -274,6 +275,7 @@ footer {
   }
   main #contact .container {
     border-radius: 0;
+    background: linear-gradient(to left, #03529f , #1a5ea6de);
   }
   footer {
     font-size: 15px;

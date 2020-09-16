@@ -1,5 +1,5 @@
 <head>
-  <?$app = 'IC Cursos';?>
+  <?$app = 'Geração Crescer';?>
   <link rel="icon" href="imgs/favicon.ico" type="image/x-icon">
   <title><?=$app?></title>
   <meta charset="utf-8">

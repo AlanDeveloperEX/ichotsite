@@ -2,51 +2,13 @@
   <!-- MAIN CAROUSEL  -->
   <section id="top" class="d_flex j_center a_end">
     <div class="s_filter d_flex j_center a_end pb40">
-    <!-- <div id="main_carousel" class="carousel slide" data-ride="carousel">
-      <ol class="carousel-indicators">
-        <li data-target="#main_carousel" data-slide-to="0" class="active"></li>
-        <li data-target="#main_carousel" data-slide-to="1" class=""></li>
-        <li data-target="#main_carousel" data-slide-to="2" class=""></li>
-      </ol>
-      <div class="carousel-inner">
-        <div class="carousel-item active">
-          <img src="imgs/slide_1.jpg" class="d-block w-100" alt="...">
-          <div class="carousel-caption d-none d-md-block text-left"> -->
-            <!-- <p>Filtros<br> Sempre<br> Foi <img src="{{URL::asset('images/logo_frem_branco_icn@2x.png')}}" alt=""></p> -->
-          <!-- </div>
-        </div>
-        <div class="carousel-item">
-          <img src="imgs/slide_2.jpg" class="d-block w-100" alt="...">
-          <div class="carousel-caption d-none d-md-block text-left"> -->
-            <!-- <p>Filtros<br> Sempre<br> Foi <img src="{{URL::asset('images/logo_frem_branco_icn@2x.png')}}" alt=""></p> -->
-          <!-- </div>
-        </div>
-        <div class="carousel-item">
-          <img src="imgs/slide_3.jpg" class="d-block w-100" alt="...">
-          <div class="carousel-caption d-none d-md-block text-left"> -->
-            <!-- <p>Filtros<br> Sempre<br> Foi <img src="{{URL::asset('images/logo_frem_branco_icn@2x.png')}}" alt=""></p> -->
-          <!-- </div>
-        </div>
-      </div>
-      <a class="carousel-control-prev" href="#main_carousel" role="button" data-slide="prev">
-        <i class="las la-angle-left"></i>
-        <span class="sr-only">Previous</span>
-      </a>
-      <a class="carousel-control-next" href="#main_carousel" role="button" data-slide="next">
-        <i class="las la-angle-right"></i>
-        <span class="sr-only">Next</span>
-      </a>
-    </div> -->
       <div class="container">
         <div class="row">
           <div class="col-md-12 text-center d_flex j_center a_end mb20">
-            <h1 class="">Curso de Design Educacional</h1>
+            <h1 class="">Geração Crescer</h1>
           </div>
           <div class="col-md-12 text-center">
-            <p>Se prepare para transformar suas aulas presenciais em estratégias efetivas de aprendizagem remota.</p>
-          </div>
-          <div class="col-md-12 text-center">
-            <a class="btn btn-light custom pulse anima_hover" href="https://www.eskolare.com/l/instituto-crescer" target="_blank">INSCREVA-SE AGORA!</a>
+            <p>O  Geração Crescer é um programa de qualificação profissional gratuito que prepara você para entrada no mercado de call center.</p>
           </div>
         </div>
       </div>
@@ -57,19 +19,12 @@
     <div class="container">
       <div class="row">
         <div class="col-md-12 text-center">
-          <h1 class="main_titles wow bounceInUp animated">Por que fazer um curso de Design Educacional?</h1>
+          <h1 class="main_titles wow bounceInUp animated">O Programa</h1>
           <hr class="title_divisor wow bounceInUp animated">
         </div>
         <div class="col-md-6 mt-5 mb-5 d_flex j_center a_center f_column wow fadeInLeft animated slow">
-          <p>Designer Educacional é o nome dado ao profissional que tem a capacidade de “dar vida” a um conteúdo disponibilizado por meio da educação a distância.</p>
-          <p>Este curso irá prepará-lo para:</p>
-          <ul>
-            <li>Criar comunidades virtuais de aprendizagem no ambiente Moodle;</li>
-            <li>Produzir vídeo-aulas e outros recursos interativos para compartilhar conceitos, ideias e reflexões importantes aos diferentes contextos educacionais;</li>
-            <li>Promover estratégias avaliativas criativas e que são analisadas por meio de rubricas que tenham como foco o desenvolvimento de competências para o século XXI;</li>
-            <li>Estruturar atividades didáticas online, criativas e inovadoras, apoiadas pelas metodologias ativas.
-            Vivencie esta experiência e seja um(a) professor(a) inovador(a)!</li>
-          </ul>
+          <p>O programa Geração Crescer é uma iniciativa que visa a colaborar com a formação integral de adolescentes e jovens que estão se preparando para assumir responsabilidades pessoais e profissionais e precisam adquirir habilidades para serem capazes de alçar novos voos.</p>
+          <p>Ao longo de quatro módulos formativos, que levam à reflexão, bem como à prática, os participantes terão a oportunidade de desenvolver competências cognitivas básicas e socioemocionais que os levem a ter atitudes mais positivas perante a vida, com respeito à diversidade e valores, bem como tomar decisões mais assertivas.</p>
         </div>
         <div class="col-md-6 mt-5 mb-5 d_flex j_center a_center">
           <img class="wow fadeInRight animated slow" src="imgs/mini_banner_1.png" alt="">
@@ -83,14 +38,18 @@
       <div class="row">
         <div class="col-md-6 text-center d_flex j_center a_center f_column">
           <div class="">
-            <h2 class="main_titles wow fadeInLeft">Sobre o Curso</h2>
+            <h2 class="main_titles wow fadeInLeft">Público-alvo</h2>
             <hr class="title_divisor">
           </div>
         </div>
         <div class="col-md-6 text-center wow fadeInRight">
-          <p>O curso de Design Educacional foi pensado para ajudar professores(as) a transformar estratégias de ensino, planejadas para acontecer presencialmente, em estratégias de ensino para serem ofertadas por meio da educação a distância.</p>
+          <p>O programa é indicado para:</p>
           <p>
-          A ideia não é somente fazer a transposição do conteúdo para um novo formato, mas aproveitar este momento para rever estratégias de ensino seculares, em busca de uma Nova Educação, que faça mais sentido para os(as) alunos(as) e os engajem em momentos de aprendizagem significativa.</p>
+          - adolescentes que estão no Ensino Médio, sendo alinhado à proposta dos itinerários formativos apresentada pelo Novo Ensino Médio;<br>
+
+          - jovens que estão se qualificando para ingressar no mercado de trabalho.
+          </p>
+          <p>Cada módulo tem carga horária de 40 horas, perfazendo um total de 160 horas na jornada formativa completa.</p>
         </div>
       </div>
     </div>
@@ -100,17 +59,16 @@
     <div class="container">
       <div class="row">
         <div class="col-md-12 text-center">
-          <h2 class="main_titles">Qual a importância de um curso desses?</h2>
+          <h2 class="main_titles">Formato Instrucional</h2>
           <hr class="title_divisor wow fadeInLeft animated">
         </div>
         <div class="col-md-6 mt-5 mb-5 d_flex j_center a_center">
           <img class="wow bounceInDown animated slow" src="imgs/mini_banner_2.png" alt="" width="350px">
         </div>
         <div class="col-md-6 mt-5 mb-5 d_flex a_center j_center f_column wow bounceInRight animated">
-          <p>Repensar práticas pedagógicas vem sendo visto como algo cada vez mais urgente. Aproveitar as tecnologias digitais disponíveis para reinventar tempos e espaços escolares e implementar metodologias ativas fazem parte deste contexto. Já não há mais dúvidas que é necessária esta mudança. </p>
-          <p>Mas como fazer? Como realmente desenhar estratégias de ensino que se revertam em atividades prazerosas para os(as) alunos(as) e os(as) preparem com as competências cognitivas básicas, socioemocionais e digitais necessárias no Século XXI?</p>
-          <p>
-          Esta é a proposta deste curso, que irá trazer um primeiro olhar para uma nova realidade: trabalhar com educação remota de forma a propiciar aos estudantes oportunidades de comunicação, expressão, acesso à informação e metacognição. Participe!</p>
+          <p>A formação é autoinstrucional, colaborando para que os estudantes adquiram competências para estudar, de forma autônoma, por toda a vida.  </p>
+          <p>Mesmo sendo neste formato, os estudantes terão oportunidade de interação com outros estudantes e o acompanhamento de um mediador deste processo de aprendizagem que ajudará a fomentar as discussões e a sanar possíveis dúvidas.</p>
+          <p>Venha fazer parte desta Geração!</p>
         </div>
       </div>
     </div>
@@ -121,25 +79,43 @@
   <section id="specifications" class="pt100 pb80">
     <div class="container">
       <div class="row">
-        <div class="col-md-6 col-lg-3 mb40 text-center wow bounceInLeft animated slow">
-          <h2 class="mini_titles">PÚBLICO-ALVO</h2>
+        <div class="col-md-6 col-lg-6 mb40 text-center wow bounceInLeft animated slow">
+          <h2 class="mini_titles">Qualidade de vida e trabalho</h2>
           <i class="las la-users"></i>
-          <p>Professores(as) de Educação Básica ou Ensino Superior que tenham interesse em rever suas práticas de ensino para oferecer atividades no formato de educação remota.</p>
+          <p>Autoconhecimento;<br>
+          Autocuidado e relações interpessoais;<br>
+          Marketing pessoal e empregabilidade;<br>
+          Motivação e gestão do tempo;<br>
+          Moral, ética e diversidade cultural;<br>
+          Projeto de vida;<br>
+          Inovação e empreendedorismo.
+          </p>
         </div>
-        <div class="col-md-6 col-lg-3 mb40 text-center wow bounceInLeft animated">
-          <h2 class="mini_titles">OBJETIVOS</h2>
-          <i class="las la-bullseye"></i>
-          <p>Desenvolver a competência de design educacional em docentes, levando-os(as) a repensar suas práticas pedagógicas, seja no formato presencial ou a distância.</p>
+        <div class="col-md-6 col-lg-6 mb40 text-center wow bounceInLeft animated">
+          <h2 class="mini_titles">Educação financeira</h2>
+          <i class="las la-coins"></i>
+          <p>Perfil financeiro;<br>
+          Análise e controle financeiro;<br>
+          Investimentos;<br>
+          Sustentabilidade.
+          </p>
         </div>
-        <div class="col-md-6 col-lg-3 mb40 text-center wow bounceInRight animated">
-          <h2 class="mini_titles">CARGA HORÁRIA</h2>
-          <i class="las la-clock"></i>
-          <p>O curso está organizado em 4 módulos com uma carga horária total de 40 horas.</p>
+        <div class="col-md-6 col-lg-6 mb40 text-center wow bounceInRight animated">
+          <h2 class="mini_titles">Cultura digital</h2>
+          <i class="las la-laptop-code"></i>
+          <p>Redes sociais;<br>
+            Microsoft Office (Windows, Word, Excel e PowerPoint)
+          </p>
         </div>
-        <div class="col-md-6 col-lg-3 mb40 text-center wow bounceInRight animated slow">
-          <h2 class="mini_titles">CERTIFICAÇÃO</h2>
-          <i class="las la-certificate"></i>
-          <p>Para ser certificado é necessário passar por todo o conteúdo, entregar pelo menos 70% das micropráticas propostas no geral de todos os módulos e fazer a autorreflexão final.</p>
+        <div class="col-md-6 col-lg-6 mb40 text-center wow bounceInRight animated slow">
+          <h2 class="mini_titles">Comunicação oral e escrita</h2>
+          <i class="las la-user-edit"></i>
+          <p>Regras gramaticais;<br>
+          Concordância verbal;<br>
+          Ortografia;<br>
+          Produção textual;<br>
+          Gerundismo.
+          </p>
         </div>
       </div>
     </div>
@@ -148,10 +124,11 @@
   <section id="contact">
     <div class="container">
       <div class="row wow bounceInUp animated slow">
-        <div class="offset-lg-3 col-md-12 col-lg-6 text-center">
-          <h2 class="main_titles">Possui alguma dúvida ou quer fazer o curso Design Educacional? Entre em contato:</h2>
+        <div class="col-md-12 col-lg-12 text-center">
+          <h2 class="main_titles">Caso tenha interesse em conhecer o Geração Crescer entre em contato pelo email icrescer@icrescer.org.br ou envie seu contato:</h2>
         </div>
         <div class="col-md-12">
+        <form action="">
           <div class="row">
             <div class="col-md-12">
               <form action="">
@@ -175,6 +152,7 @@
               </form>
             </div>
           </div>
+        </form>
         </div>
       </div>
     </div>
