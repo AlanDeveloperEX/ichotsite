@@ -8,7 +8,7 @@
             <h1 class="">Geração Crescer</h1>
           </div>
           <div class="col-md-12 text-center">
-            <p>O  Geração Crescer é um programa de qualificação profissional gratuito que prepara você para entrada no mercado de call center.</p>
+            <p>Um programa para preparar os profissionais do futuro para os desafios<br> de um mercado que busca novas competências e habilidades</p>
           </div>
         </div>
       </div>
@@ -125,7 +125,7 @@
     <div class="container">
       <div class="row wow bounceInUp animated slow">
         <div class="col-md-12 col-lg-12 text-center">
-          <h2 class="main_titles">Caso tenha interesse em conhecer o Geração Crescer entre em contato pelo email icrescer@icrescer.org.br ou envie seu contato:</h2>
+          <h2 class="main_titles">Caso tenha interesse em conhecer o Geração Crescer<br> entre em contato pelo email <strong>icrescer@icrescer.org.br</strong><br> ou envie seu contato:</h2>
         </div>
         <div class="col-md-12">
         <form action="">
