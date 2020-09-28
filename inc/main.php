@@ -128,7 +128,7 @@
           <h2 class="main_titles">Caso tenha interesse em conhecer o Geração Crescer<br> entre em contato pelo email <strong>icrescer@icrescer.org.br</strong><br> ou envie seu contato:</h2>
         </div>
         <div class="col-md-12">
-        <form action="">
+        <form action="envia_email.php" method="POST">
           <div class="row">
             <div class="col-md-12">
               <form action="">
@@ -146,7 +146,7 @@
                     <textarea name="msg" id="" cols="30" rows="5"></textarea>
                   </div>
                   <div class="col-md-12 mt20 mb20 text-center">
-                    <button class="btn btn-light">ENVIAR</button>
+                    <button type="submit" name="enviar_form" class="btn btn-light">ENVIAR</button>
                   </div>
                 </div>
               </form>
